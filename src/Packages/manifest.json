@@ -1,4 +1,11 @@
 {
+    "scopedRegistries": [
+        {
+          "name": "AntonioMoon",
+          "url": "https://registry.npmjs.com",
+          "scopes": [ "es.antoniomoon" ]
+        }
+      ],  
   "dependencies": {
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.2.2",
@@ -35,6 +42,7 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0"
+    "com.unity.modules.xr": "1.0.0",
+    "es.antoniomoon.unity-custom-package-test": "1.0.0"
   }
 }
