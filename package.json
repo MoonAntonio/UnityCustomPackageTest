@@ -4,6 +4,6 @@
   "description": "A small project for testing the custom package features of Unity Package Manager",
   "repository": "https://github.com/MoonAntonio/UnityCustomPackageTest",
   "author": "Antonio Moon",
-  "license": "UNLICENSED"
+  "license": "MIT"
   },
 }
