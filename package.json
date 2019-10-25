@@ -9,5 +9,6 @@
     "repository": "github:MoonAntonio/UnityCustomPackageTest",
     "unity": "2018.4",
     "unityRelease": "0f1",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
