@@ -1,16 +1,9 @@
 {
   "name": "@moonantonio/UnityCustomPackageTest",
   "version": "1.0.0",
-  "description": "A small project for testing the custom package features of Unity Package Manager"
-  },
-  "repository": {
-    "url": "git://github.com/moonantonio/UnityCustomPackageTest.git"
-  },
-  "keywords": ["unity"],
+  "description": "A small project for testing the custom package features of Unity Package Manager",
+  "repository": "https://github.com/MoonAntonio/UnityCustomPackageTest",
   "author": "Antonio Moon",
-  "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/MoonAntonio/UnityCustomPackageTest/issues"
+  "license": "UNLICENSED"
   },
-  "homepage": "https://github.com/MoonAntonio/UnityCustomPackageTest#readme"
 }
