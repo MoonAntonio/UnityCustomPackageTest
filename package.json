@@ -1,13 +1,26 @@
 {
-    "author": "Antonio Moon",
-    "dependencies": { },
-    "description": "A small project for testing the custom package features of Unity Package Manager.",
+    "name": "com.unity.package-example",
+    "version": "1.2.3",
     "displayName": "Unity Custom Package Test",
-    "keywords": [ "unity" ],
-    "license": "UNLICENSED",
-    "name": "es.moon.unity-custom-package-test",
-    "repository": "github:MoonAntonio/UnityCustomPackageTest",
+    "description": "A small project for testing the custom package features of Unity Package Manager.",
     "unity": "2018.4",
-    "unityRelease": "0f1",
-    "version": "1.0.0"
+    "unityRelease": "0b5",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MoonAntonio/UnityCustomPackageTest"
+    },
+    "publishConfig": {
+        "registry":"https://npm.pkg.github.com/@moonantonio"
+    },
+    "dependencies": {},
+    "keywords": [
+        "keyword1",
+        "keyword2",
+        "keyword3"
+    ],
+    "author": {
+        "name": "Unity",
+        "email": "unity@example.com",
+        "url": "https://www.unity3d.com"
+    }
 }
